@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://medakademia.my.canva.site/black-white-dark-futuristic-coming-soon-website-coming-soon-page",
-      "permanent": true
-    }
-  ]
-}
